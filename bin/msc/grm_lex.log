@@ -1,0 +1,1502 @@
+============================================================
+Time  2021/01/12 14:40:37 440 
+============================================================
+[2021/01/12 14:40:37 440] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 14:40:37 440] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:40:37 440] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 14:40:37 440] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:40:37 441] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 14:40:37 441] grm_lex    100  grm_type :  bnf  
+[2021/01/12 14:40:37 441] grm_lex    106  engine_type  :  local  
+[2021/01/12 14:40:37 441] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 14:40:37 441] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 14:40:37 441] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 14:40:37 442] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 14:40:37 452] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 14:41:12 216 
+============================================================
+[2021/01/12 14:41:12 216] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 14:41:12 216] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:41:12 216] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 14:41:12 216] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:41:12 216] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 14:41:12 216] grm_lex    100  grm_type :  bnf  
+[2021/01/12 14:41:12 216] grm_lex    106  engine_type  :  local  
+[2021/01/12 14:41:12 216] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 14:41:12 216] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 14:41:12 216] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 14:41:12 217] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 14:41:12 331] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 14:42:21 676 
+============================================================
+[2021/01/12 14:42:21 677] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 14:42:21 677] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:42:21 677] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 14:42:21 677] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:42:21 677] grm_lex    257  ISR_MSG_UPDATELEXICON  
+[2021/01/12 14:42:21 677] grm_lex    168  contact  16  
+[2021/01/12 14:42:21 678] grm_lex    174  engine_type  :  local  
+[2021/01/12 14:42:21 678] grm_lex    174  text_encoding  :  UTF-8  
+[2021/01/12 14:42:21 678] grm_lex    174  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 14:42:21 678] grm_lex    174  sample_rate  :  16000  
+[2021/01/12 14:42:21 678] grm_lex    174  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 14:42:21 678] grm_lex    174  grammar_list  :  call  
+[2021/01/12 14:42:21 679] grm_lex    260  ISR_MSG_UPDATELEXICON ret =  0  
+[2021/01/12 14:42:21 687] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 14:43:24 821 
+============================================================
+[2021/01/12 14:43:24 821] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 14:43:24 821] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:43:24 821] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 14:43:24 821] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:43:24 822] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 14:43:24 822] grm_lex    100  grm_type :  bnf  
+[2021/01/12 14:43:24 822] grm_lex    106  engine_type  :  local  
+[2021/01/12 14:43:24 822] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 14:43:24 822] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 14:43:24 822] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 14:43:24 823] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 14:43:24 836] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 14:43:41 493 
+============================================================
+[2021/01/12 14:43:41 493] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 14:43:41 493] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:43:41 493] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 14:43:41 493] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:43:41 493] grm_lex    257  ISR_MSG_UPDATELEXICON  
+[2021/01/12 14:43:41 493] grm_lex    168  contact  16  
+[2021/01/12 14:43:41 493] grm_lex    174  engine_type  :  local  
+[2021/01/12 14:43:41 493] grm_lex    174  text_encoding  :  UTF-8  
+[2021/01/12 14:43:41 493] grm_lex    174  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 14:43:41 493] grm_lex    174  sample_rate  :  16000  
+[2021/01/12 14:43:41 493] grm_lex    174  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 14:43:41 493] grm_lex    174  grammar_list  :  call  
+[2021/01/12 14:43:41 494] grm_lex    260  ISR_MSG_UPDATELEXICON ret =  0  
+[2021/01/12 14:43:41 500] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 14:44:06 487 
+============================================================
+[2021/01/12 14:44:06 487] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 14:44:06 487] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:44:06 487] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 14:44:06 487] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:44:06 488] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 14:44:06 488] grm_lex    100  grm_type :  bnf  
+[2021/01/12 14:44:06 488] grm_lex    106  engine_type  :  local  
+[2021/01/12 14:44:06 488] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 14:44:06 488] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 14:44:06 488] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 14:44:06 489] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 14:44:06 499] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 14:44:23 368 
+============================================================
+[2021/01/12 14:44:23 368] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 14:44:23 368] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:44:23 368] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 14:44:23 369] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:44:23 369] grm_lex    257  ISR_MSG_UPDATELEXICON  
+[2021/01/12 14:44:23 369] grm_lex    168  contact  16  
+[2021/01/12 14:44:23 369] grm_lex    174  engine_type  :  local  
+[2021/01/12 14:44:23 369] grm_lex    174  text_encoding  :  UTF-8  
+[2021/01/12 14:44:23 369] grm_lex    174  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 14:44:23 369] grm_lex    174  sample_rate  :  16000  
+[2021/01/12 14:44:23 369] grm_lex    174  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 14:44:23 369] grm_lex    174  grammar_list  :  call  
+[2021/01/12 14:44:23 369] grm_lex    260  ISR_MSG_UPDATELEXICON ret =  0  
+[2021/01/12 14:44:23 377] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 14:48:21 557 
+============================================================
+[2021/01/12 14:48:21 557] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 14:48:21 557] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:48:21 557] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 14:48:21 557] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:48:21 557] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 14:48:21 557] grm_lex    100  grm_type :  bnf  
+[2021/01/12 14:48:21 557] grm_lex    106  engine_type  :  local  
+[2021/01/12 14:48:21 557] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 14:48:21 557] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 14:48:21 557] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 14:48:21 558] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 14:48:21 566] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 14:48:39 162 
+============================================================
+[2021/01/12 14:48:39 162] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 14:48:39 162] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:48:39 162] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 14:48:39 162] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:48:39 163] grm_lex    257  ISR_MSG_UPDATELEXICON  
+[2021/01/12 14:48:39 163] grm_lex    168  contact  16  
+[2021/01/12 14:48:39 163] grm_lex    174  engine_type  :  local  
+[2021/01/12 14:48:39 163] grm_lex    174  text_encoding  :  UTF-8  
+[2021/01/12 14:48:39 163] grm_lex    174  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 14:48:39 163] grm_lex    174  sample_rate  :  16000  
+[2021/01/12 14:48:39 163] grm_lex    174  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 14:48:39 163] grm_lex    174  grammar_list  :  call  
+[2021/01/12 14:48:39 163] grm_lex    260  ISR_MSG_UPDATELEXICON ret =  0  
+[2021/01/12 14:48:39 172] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 14:53:44 413 
+============================================================
+[2021/01/12 14:53:44 413] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 14:53:44 413] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:53:44 413] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 14:53:44 413] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:53:44 413] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 14:53:44 413] grm_lex    100  grm_type :  bnf  
+[2021/01/12 14:53:44 413] grm_lex    106  engine_type  :  local  
+[2021/01/12 14:53:44 413] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 14:53:44 413] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 14:53:44 413] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 14:53:44 414] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 14:53:44 423] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 14:53:50 276 
+============================================================
+[2021/01/12 14:53:50 276] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 14:53:50 276] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:53:50 276] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 14:53:50 277] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:53:50 278] grm_lex    257  ISR_MSG_UPDATELEXICON  
+[2021/01/12 14:53:50 278] grm_lex    168  contact  16  
+[2021/01/12 14:53:50 279] grm_lex    174  engine_type  :  local  
+[2021/01/12 14:53:50 279] grm_lex    174  text_encoding  :  UTF-8  
+[2021/01/12 14:53:50 279] grm_lex    174  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 14:53:50 279] grm_lex    174  sample_rate  :  16000  
+[2021/01/12 14:53:50 279] grm_lex    174  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 14:53:50 279] grm_lex    174  grammar_list  :  call  
+[2021/01/12 14:53:50 280] grm_lex    260  ISR_MSG_UPDATELEXICON ret =  0  
+[2021/01/12 14:53:50 286] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 14:54:23 211 
+============================================================
+[2021/01/12 14:54:23 211] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 14:54:23 211] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:54:23 211] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 14:54:23 211] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:54:23 211] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 14:54:23 211] grm_lex    100  grm_type :  bnf  
+[2021/01/12 14:54:23 211] grm_lex    106  engine_type  :  local  
+[2021/01/12 14:54:23 211] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 14:54:23 211] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 14:54:23 211] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 14:54:23 212] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 14:54:23 221] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 14:54:42 599 
+============================================================
+[2021/01/12 14:54:42 599] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 14:54:42 600] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:54:42 600] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 14:54:42 600] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:54:42 600] grm_lex    257  ISR_MSG_UPDATELEXICON  
+[2021/01/12 14:54:42 600] grm_lex    168  contact  16  
+[2021/01/12 14:54:42 600] grm_lex    174  engine_type  :  local  
+[2021/01/12 14:54:42 600] grm_lex    174  text_encoding  :  UTF-8  
+[2021/01/12 14:54:42 600] grm_lex    174  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 14:54:42 600] grm_lex    174  sample_rate  :  16000  
+[2021/01/12 14:54:42 600] grm_lex    174  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 14:54:42 600] grm_lex    174  grammar_list  :  call  
+[2021/01/12 14:54:42 601] grm_lex    260  ISR_MSG_UPDATELEXICON ret =  0  
+[2021/01/12 14:54:42 610] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 14:57:43 833 
+============================================================
+[2021/01/12 14:57:43 833] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 14:57:43 833] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:57:43 833] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 14:57:43 834] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:57:43 834] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 14:57:43 834] grm_lex    100  grm_type :  bnf  
+[2021/01/12 14:57:43 834] grm_lex    106  engine_type  :  local  
+[2021/01/12 14:57:43 834] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 14:57:43 834] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 14:57:43 834] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 14:57:43 835] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 14:57:43 938] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 14:57:48 523 
+============================================================
+[2021/01/12 14:57:48 523] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 14:57:48 523] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:57:48 524] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 14:57:48 524] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:57:48 526] grm_lex    257  ISR_MSG_UPDATELEXICON  
+[2021/01/12 14:57:48 526] grm_lex    168  contact  26  
+[2021/01/12 14:57:48 526] grm_lex    174  engine_type  :  local  
+[2021/01/12 14:57:48 526] grm_lex    174  text_encoding  :  UTF-8  
+[2021/01/12 14:57:48 526] grm_lex    174  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 14:57:48 526] grm_lex    174  sample_rate  :  16000  
+[2021/01/12 14:57:48 526] grm_lex    174  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 14:57:48 526] grm_lex    174  grammar_list  :  call  
+[2021/01/12 14:57:48 527] grm_lex    260  ISR_MSG_UPDATELEXICON ret =  0  
+[2021/01/12 14:57:48 533] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 14:58:51 790 
+============================================================
+[2021/01/12 14:58:51 790] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 14:58:51 790] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:58:51 790] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 14:58:51 790] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:58:51 790] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 14:58:51 790] grm_lex    100  grm_type :  bnf  
+[2021/01/12 14:58:51 790] grm_lex    106  engine_type  :  local  
+[2021/01/12 14:58:51 791] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 14:58:51 791] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 14:58:51 791] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 14:58:51 792] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 14:58:51 803] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 14:58:58 354 
+============================================================
+[2021/01/12 14:58:58 354] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 14:58:58 354] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:58:58 354] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 14:58:58 355] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:58:58 355] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 14:58:58 355] grm_lex    100  grm_type :  bnf  
+[2021/01/12 14:58:58 355] grm_lex    106  engine_type  :  local  
+[2021/01/12 14:58:58 355] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 14:58:58 355] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 14:58:58 355] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 14:58:58 356] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 14:58:58 366] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 14:59:00 990 
+============================================================
+[2021/01/12 14:59:00 990] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 14:59:00 990] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:59:00 990] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 14:59:00 990] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 14:59:00 990] grm_lex    257  ISR_MSG_UPDATELEXICON  
+[2021/01/12 14:59:00 990] grm_lex    168  contact  26  
+[2021/01/12 14:59:00 990] grm_lex    174  engine_type  :  local  
+[2021/01/12 14:59:00 991] grm_lex    174  text_encoding  :  UTF-8  
+[2021/01/12 14:59:00 991] grm_lex    174  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 14:59:00 991] grm_lex    174  sample_rate  :  16000  
+[2021/01/12 14:59:00 991] grm_lex    174  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 14:59:00 991] grm_lex    174  grammar_list  :  call  
+[2021/01/12 14:59:00 992] grm_lex    260  ISR_MSG_UPDATELEXICON ret =  0  
+[2021/01/12 14:59:00 999] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 15:03:28 857 
+============================================================
+[2021/01/12 15:03:28 857] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 15:03:28 857] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:03:28 857] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 15:03:28 857] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:03:28 857] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 15:03:28 857] grm_lex    100  grm_type :  bnf  
+[2021/01/12 15:03:28 858] grm_lex    106  engine_type  :  local  
+[2021/01/12 15:03:28 858] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 15:03:28 858] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 15:03:28 858] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 15:03:28 858] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 15:03:28 867] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 15:03:31 893 
+============================================================
+[2021/01/12 15:03:31 893] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 15:03:31 893] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:03:31 894] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 15:03:31 894] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:03:31 894] grm_lex    257  ISR_MSG_UPDATELEXICON  
+[2021/01/12 15:03:31 894] grm_lex    168  contact  26  
+[2021/01/12 15:03:31 894] grm_lex    174  engine_type  :  local  
+[2021/01/12 15:03:31 894] grm_lex    174  text_encoding  :  UTF-8  
+[2021/01/12 15:03:31 894] grm_lex    174  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 15:03:31 894] grm_lex    174  sample_rate  :  16000  
+[2021/01/12 15:03:31 894] grm_lex    174  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 15:03:31 894] grm_lex    174  grammar_list  :  call  
+[2021/01/12 15:03:31 895] grm_lex    260  ISR_MSG_UPDATELEXICON ret =  0  
+[2021/01/12 15:03:31 929] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 15:03:47 092 
+============================================================
+[2021/01/12 15:03:47 092] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 15:03:47 092] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:03:47 092] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 15:03:47 092] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:03:47 092] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 15:03:47 092] grm_lex    100  grm_type :  bnf  
+[2021/01/12 15:03:47 092] grm_lex    106  engine_type  :  local  
+[2021/01/12 15:03:47 092] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 15:03:47 092] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 15:03:47 092] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 15:03:47 093] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 15:03:47 102] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 15:03:49 729 
+============================================================
+[2021/01/12 15:03:49 729] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 15:03:49 730] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:03:49 731] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 15:03:49 731] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:03:49 731] grm_lex    257  ISR_MSG_UPDATELEXICON  
+[2021/01/12 15:03:49 732] grm_lex    168  contact  26  
+[2021/01/12 15:03:49 732] grm_lex    174  engine_type  :  local  
+[2021/01/12 15:03:49 732] grm_lex    174  text_encoding  :  UTF-8  
+[2021/01/12 15:03:49 732] grm_lex    174  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 15:03:49 732] grm_lex    174  sample_rate  :  16000  
+[2021/01/12 15:03:49 732] grm_lex    174  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 15:03:49 732] grm_lex    174  grammar_list  :  call  
+[2021/01/12 15:03:49 733] grm_lex    260  ISR_MSG_UPDATELEXICON ret =  0  
+[2021/01/12 15:03:49 742] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 15:04:23 385 
+============================================================
+[2021/01/12 15:04:23 385] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 15:04:23 385] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:04:23 385] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 15:04:23 385] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:04:23 385] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 15:04:23 385] grm_lex    100  grm_type :  bnf  
+[2021/01/12 15:04:23 385] grm_lex    106  engine_type  :  local  
+[2021/01/12 15:04:23 386] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 15:04:23 386] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 15:04:23 386] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 15:04:23 387] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 15:04:23 397] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 15:04:25 723 
+============================================================
+[2021/01/12 15:04:25 723] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 15:04:25 723] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:04:25 725] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 15:04:25 725] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:04:25 725] grm_lex    257  ISR_MSG_UPDATELEXICON  
+[2021/01/12 15:04:25 725] grm_lex    168  contact  26  
+[2021/01/12 15:04:25 725] grm_lex    174  engine_type  :  local  
+[2021/01/12 15:04:25 725] grm_lex    174  text_encoding  :  UTF-8  
+[2021/01/12 15:04:25 725] grm_lex    174  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 15:04:25 725] grm_lex    174  sample_rate  :  16000  
+[2021/01/12 15:04:25 725] grm_lex    174  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 15:04:25 725] grm_lex    174  grammar_list  :  call  
+[2021/01/12 15:04:25 726] grm_lex    260  ISR_MSG_UPDATELEXICON ret =  0  
+[2021/01/12 15:04:25 733] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 15:04:35 888 
+============================================================
+[2021/01/12 15:04:35 888] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 15:04:35 888] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:04:35 888] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 15:04:35 888] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:04:35 888] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 15:04:35 888] grm_lex    100  grm_type :  bnf  
+[2021/01/12 15:04:35 888] grm_lex    106  engine_type  :  local  
+[2021/01/12 15:04:35 888] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 15:04:35 888] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 15:04:35 888] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 15:04:35 889] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 15:04:35 901] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 15:04:40 155 
+============================================================
+[2021/01/12 15:04:40 155] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 15:04:40 155] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:04:40 155] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 15:04:40 157] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:04:40 157] grm_lex    257  ISR_MSG_UPDATELEXICON  
+[2021/01/12 15:04:40 157] grm_lex    168  contact  26  
+[2021/01/12 15:04:40 157] grm_lex    174  engine_type  :  local  
+[2021/01/12 15:04:40 157] grm_lex    174  text_encoding  :  UTF-8  
+[2021/01/12 15:04:40 157] grm_lex    174  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 15:04:40 157] grm_lex    174  sample_rate  :  16000  
+[2021/01/12 15:04:40 157] grm_lex    174  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 15:04:40 157] grm_lex    174  grammar_list  :  call  
+[2021/01/12 15:04:40 158] grm_lex    260  ISR_MSG_UPDATELEXICON ret =  0  
+[2021/01/12 15:04:40 169] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 15:04:57 823 
+============================================================
+[2021/01/12 15:04:57 823] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 15:04:57 823] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:04:57 823] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 15:04:57 823] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:04:57 823] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 15:04:57 823] grm_lex    100  grm_type :  bnf  
+[2021/01/12 15:04:57 823] grm_lex    106  engine_type  :  local  
+[2021/01/12 15:04:57 823] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 15:04:57 823] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 15:04:57 823] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 15:04:57 824] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 15:04:57 835] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 15:04:59 786 
+============================================================
+[2021/01/12 15:04:59 786] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 15:04:59 786] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:04:59 788] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 15:04:59 788] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:04:59 788] grm_lex    257  ISR_MSG_UPDATELEXICON  
+[2021/01/12 15:04:59 788] grm_lex    168  contact  26  
+[2021/01/12 15:04:59 788] grm_lex    174  engine_type  :  local  
+[2021/01/12 15:04:59 788] grm_lex    174  text_encoding  :  UTF-8  
+[2021/01/12 15:04:59 788] grm_lex    174  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 15:04:59 788] grm_lex    174  sample_rate  :  16000  
+[2021/01/12 15:04:59 788] grm_lex    174  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 15:04:59 789] grm_lex    174  grammar_list  :  call  
+[2021/01/12 15:04:59 790] grm_lex    260  ISR_MSG_UPDATELEXICON ret =  0  
+[2021/01/12 15:04:59 798] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 15:09:08 691 
+============================================================
+[2021/01/12 15:09:08 691] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 15:09:08 691] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:09:08 691] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 15:09:08 691] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:09:08 692] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 15:09:08 692] grm_lex    100  grm_type :  bnf  
+[2021/01/12 15:09:08 692] grm_lex    106  engine_type  :  local  
+[2021/01/12 15:09:08 692] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 15:09:08 692] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 15:09:08 692] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 15:09:08 692] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 15:09:08 702] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 15:09:22 177 
+============================================================
+[2021/01/12 15:09:22 177] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 15:09:22 177] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:09:22 178] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 15:09:22 178] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:09:22 178] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 15:09:22 178] grm_lex    100  grm_type :  bnf  
+[2021/01/12 15:09:22 178] grm_lex    106  engine_type  :  local  
+[2021/01/12 15:09:22 178] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 15:09:22 178] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 15:09:22 178] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 15:09:22 179] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 15:09:22 189] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 15:09:27 702 
+============================================================
+[2021/01/12 15:09:27 702] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 15:09:27 702] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:09:27 702] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 15:09:27 702] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:09:27 702] grm_lex    257  ISR_MSG_UPDATELEXICON  
+[2021/01/12 15:09:27 702] grm_lex    168  contact  26  
+[2021/01/12 15:09:27 702] grm_lex    174  engine_type  :  local  
+[2021/01/12 15:09:27 702] grm_lex    174  text_encoding  :  UTF-8  
+[2021/01/12 15:09:27 702] grm_lex    174  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 15:09:27 702] grm_lex    174  sample_rate  :  16000  
+[2021/01/12 15:09:27 702] grm_lex    174  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 15:09:27 703] grm_lex    174  grammar_list  :  call  
+[2021/01/12 15:09:27 705] grm_lex    260  ISR_MSG_UPDATELEXICON ret =  0  
+[2021/01/12 15:09:27 718] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 15:11:37 945 
+============================================================
+[2021/01/12 15:11:37 945] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 15:11:37 945] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:11:37 945] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 15:11:37 945] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:11:37 945] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 15:11:37 945] grm_lex    100  grm_type :  bnf  
+[2021/01/12 15:11:37 945] grm_lex    106  engine_type  :  local  
+[2021/01/12 15:11:37 945] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 15:11:37 945] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 15:11:37 946] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 15:11:37 946] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 15:11:37 952] grm_lex    71   11210  nil  
+============================================================
+Time  2021/01/12 15:12:27 918 
+============================================================
+[2021/01/12 15:12:27 918] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 15:12:27 918] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:12:27 918] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 15:12:27 918] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:12:27 918] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 15:12:27 918] grm_lex    100  grm_type :  bnf  
+[2021/01/12 15:12:27 918] grm_lex    106  engine_type  :  local  
+[2021/01/12 15:12:27 918] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 15:12:27 918] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 15:12:27 918] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 15:12:27 919] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 15:12:27 927] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 15:13:02 505 
+============================================================
+[2021/01/12 15:13:02 505] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 15:13:02 505] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:13:02 505] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 15:13:02 505] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:13:02 505] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 15:13:02 505] grm_lex    100  grm_type :  bnf  
+[2021/01/12 15:13:02 505] grm_lex    106  engine_type  :  local  
+[2021/01/12 15:13:02 505] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 15:13:02 505] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 15:13:02 505] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 15:13:02 506] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 15:13:02 510] grm_lex    71   11210  nil  
+============================================================
+Time  2021/01/12 15:13:17 056 
+============================================================
+[2021/01/12 15:13:17 056] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 15:13:17 056] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:13:17 056] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 15:13:17 056] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 15:13:17 057] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 15:13:17 057] grm_lex    100  grm_type :  bnf  
+[2021/01/12 15:13:17 057] grm_lex    106  engine_type  :  local  
+[2021/01/12 15:13:17 057] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 15:13:17 057] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 15:13:17 057] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 15:13:17 058] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 15:13:17 070] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 17:03:06 536 
+============================================================
+[2021/01/12 17:03:06 536] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 17:03:06 536] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 17:03:06 537] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 17:03:06 537] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 17:03:06 537] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 17:03:06 537] grm_lex    100  grm_type :  bnf  
+[2021/01/12 17:03:06 537] grm_lex    106  engine_type  :  local  
+[2021/01/12 17:03:06 537] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 17:03:06 537] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 17:03:06 537] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 17:03:06 537] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 17:03:06 543] grm_lex    71   23300  nil  
+============================================================
+Time  2021/01/12 17:04:27 279 
+============================================================
+[2021/01/12 17:04:27 279] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 17:04:27 279] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 17:04:27 279] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 17:04:27 280] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 17:04:27 280] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 17:04:27 280] grm_lex    100  grm_type :  bnf  
+[2021/01/12 17:04:27 280] grm_lex    106  engine_type  :  local  
+[2021/01/12 17:04:27 280] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 17:04:27 280] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 17:04:27 280] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 17:04:27 281] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 17:04:27 291] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 17:04:46 954 
+============================================================
+[2021/01/12 17:04:46 954] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 17:04:46 954] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 17:04:46 954] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 17:04:46 955] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 17:04:46 955] grm_lex    257  ISR_MSG_UPDATELEXICON  
+[2021/01/12 17:04:46 955] grm_lex    168  contact  26  
+[2021/01/12 17:04:46 955] grm_lex    174  engine_type  :  local  
+[2021/01/12 17:04:46 955] grm_lex    174  text_encoding  :  UTF-8  
+[2021/01/12 17:04:46 955] grm_lex    174  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 17:04:46 955] grm_lex    174  sample_rate  :  16000  
+[2021/01/12 17:04:46 955] grm_lex    174  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 17:04:46 955] grm_lex    174  grammar_list  :  call  
+[2021/01/12 17:04:46 956] grm_lex    260  ISR_MSG_UPDATELEXICON ret =  0  
+[2021/01/12 17:04:46 964] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 17:05:50 740 
+============================================================
+[2021/01/12 17:05:50 740] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 17:05:50 740] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 17:05:50 740] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 17:05:50 740] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 17:05:50 740] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/12 17:05:50 740] grm_lex    100  grm_type :  bnf  
+[2021/01/12 17:05:50 740] grm_lex    106  engine_type  :  local  
+[2021/01/12 17:05:50 740] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 17:05:50 740] grm_lex    106  sample_rate  :  16000  
+[2021/01/12 17:05:50 740] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 17:05:50 741] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/12 17:05:50 750] grm_lex    71   0  call  
+============================================================
+Time  2021/01/12 17:06:07 339 
+============================================================
+[2021/01/12 17:06:07 339] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/12 17:06:07 339] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 17:06:07 339] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/12 17:06:07 339] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/12 17:06:07 339] grm_lex    257  ISR_MSG_UPDATELEXICON  
+[2021/01/12 17:06:07 339] grm_lex    168  contact  33  
+[2021/01/12 17:06:07 339] grm_lex    174  engine_type  :  local  
+[2021/01/12 17:06:07 339] grm_lex    174  text_encoding  :  UTF-8  
+[2021/01/12 17:06:07 339] grm_lex    174  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/12 17:06:07 339] grm_lex    174  sample_rate  :  16000  
+[2021/01/12 17:06:07 339] grm_lex    174  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/12 17:06:07 339] grm_lex    174  grammar_list  :  call  
+[2021/01/12 17:06:07 340] grm_lex    260  ISR_MSG_UPDATELEXICON ret =  0  
+[2021/01/12 17:06:07 347] grm_lex    71   0  call  
+============================================================
+Time  2021/01/13 10:10:48 696 
+============================================================
+[2021/01/13 10:10:48 696] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/13 10:10:48 722] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/13 10:10:48 722] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/13 10:10:48 723] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/13 10:10:48 723] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/13 10:10:48 723] grm_lex    100  grm_type :  bnf  
+[2021/01/13 10:10:48 723] grm_lex    106  engine_type  :  local  
+[2021/01/13 10:10:48 723] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/13 10:10:48 723] grm_lex    106  sample_rate  :  16000  
+[2021/01/13 10:10:48 723] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/13 10:10:48 723] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/13 10:10:48 751] grm_lex    71   11210  nil  
+============================================================
+Time  2021/01/13 10:11:24 967 
+============================================================
+[2021/01/13 10:11:24 967] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/13 10:11:24 967] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/13 10:11:24 967] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/13 10:11:24 967] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/13 10:11:24 967] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/13 10:11:24 967] grm_lex    100  grm_type :  bnf  
+[2021/01/13 10:11:24 967] grm_lex    106  engine_type  :  local  
+[2021/01/13 10:11:24 967] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/13 10:11:24 967] grm_lex    106  sample_rate  :  16000  
+[2021/01/13 10:11:24 967] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/13 10:11:24 969] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/13 10:11:25 208] grm_lex    71   0  control  
+============================================================
+Time  2021/01/13 13:22:10 623 
+============================================================
+[2021/01/13 13:22:10 623] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/13 13:22:10 623] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/13 13:22:10 623] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/13 13:22:10 623] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/13 13:22:10 623] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/13 13:22:10 623] grm_lex    100  grm_type :  bnf  
+[2021/01/13 13:22:10 623] grm_lex    106  engine_type  :  local  
+[2021/01/13 13:22:10 623] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/13 13:22:10 623] grm_lex    106  sample_rate  :  16000  
+[2021/01/13 13:22:10 623] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/13 13:22:10 624] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/13 13:22:10 653] grm_lex    71   0  control  
+============================================================
+Time  2021/01/13 13:22:19 993 
+============================================================
+[2021/01/13 13:22:19 993] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/13 13:22:19 993] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/13 13:22:19 993] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/13 13:22:19 993] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/13 13:22:19 994] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/13 13:22:19 994] grm_lex    100  grm_type :  bnf  
+[2021/01/13 13:22:19 994] grm_lex    106  engine_type  :  local  
+[2021/01/13 13:22:19 994] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/13 13:22:19 994] grm_lex    106  sample_rate  :  16000  
+[2021/01/13 13:22:19 994] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/13 13:22:19 995] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/13 13:22:20 004] grm_lex    71   0  control  
+============================================================
+Time  2021/01/13 13:22:24 176 
+============================================================
+[2021/01/13 13:22:24 176] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/13 13:22:24 176] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/13 13:22:24 176] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/13 13:22:24 176] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/13 13:22:24 177] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/13 13:22:24 177] grm_lex    100  grm_type :  bnf  
+[2021/01/13 13:22:24 177] grm_lex    106  engine_type  :  local  
+[2021/01/13 13:22:24 177] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/13 13:22:24 177] grm_lex    106  sample_rate  :  16000  
+[2021/01/13 13:22:24 177] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/13 13:22:24 178] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/13 13:22:24 187] grm_lex    71   0  control  
+============================================================
+Time  2021/01/13 13:22:31 636 
+============================================================
+[2021/01/13 13:22:31 636] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/13 13:22:31 636] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/13 13:22:31 636] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/13 13:22:31 636] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/13 13:22:31 636] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/13 13:22:31 637] grm_lex    100  grm_type :  bnf  
+[2021/01/13 13:22:31 637] grm_lex    106  engine_type  :  local  
+[2021/01/13 13:22:31 637] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/13 13:22:31 637] grm_lex    106  sample_rate  :  16000  
+[2021/01/13 13:22:31 637] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/13 13:22:31 638] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/13 13:22:31 646] grm_lex    71   0  control  
+============================================================
+Time  2021/01/13 14:52:50 250 
+============================================================
+[2021/01/13 14:52:50 250] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/13 14:52:50 250] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/13 14:52:50 250] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/13 14:52:50 250] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/13 14:52:50 250] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/13 14:52:50 250] grm_lex    100  grm_type :  bnf  
+[2021/01/13 14:52:50 250] grm_lex    106  engine_type  :  local  
+[2021/01/13 14:52:50 250] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/13 14:52:50 250] grm_lex    106  sample_rate  :  16000  
+[2021/01/13 14:52:50 251] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/13 14:52:50 251] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/13 14:52:50 259] grm_lex    71   0  control  
+============================================================
+Time  2021/01/13 15:13:58 583 
+============================================================
+[2021/01/13 15:13:58 583] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/13 15:13:58 583] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/13 15:13:58 583] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/13 15:13:58 584] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/13 15:13:58 584] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/13 15:13:58 584] grm_lex    100  grm_type :  bnf  
+[2021/01/13 15:13:58 584] grm_lex    106  engine_type  :  local  
+[2021/01/13 15:13:58 584] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/13 15:13:58 584] grm_lex    106  sample_rate  :  16000  
+[2021/01/13 15:13:58 584] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/13 15:13:58 585] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/13 15:13:58 596] grm_lex    71   0  control  
+============================================================
+Time  2021/01/15 20:51:50 592 
+============================================================
+[2021/01/15 20:51:50 592] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/15 20:51:50 608] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/15 20:51:50 608] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/15 20:51:50 608] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/15 20:51:50 608] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/15 20:51:50 608] grm_lex    100  grm_type :  bnf  
+[2021/01/15 20:51:50 609] grm_lex    106  engine_type  :  local  
+[2021/01/15 20:51:50 609] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/15 20:51:50 609] grm_lex    106  sample_rate  :  16000  
+[2021/01/15 20:51:50 609] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/15 20:51:50 609] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/15 20:51:50 675] grm_lex    71   23300  nil  
+============================================================
+Time  2021/01/15 20:52:28 191 
+============================================================
+[2021/01/15 20:52:28 191] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/15 20:52:28 191] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/15 20:52:28 192] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/15 20:52:28 192] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/15 20:52:28 192] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/15 20:52:28 192] grm_lex    100  grm_type :  bnf  
+[2021/01/15 20:52:28 192] grm_lex    106  engine_type  :  local  
+[2021/01/15 20:52:28 192] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/15 20:52:28 192] grm_lex    106  sample_rate  :  16000  
+[2021/01/15 20:52:28 192] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/15 20:52:28 193] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/15 20:52:28 334] grm_lex    71   0  control  
+============================================================
+Time  2021/01/15 20:56:13 387 
+============================================================
+[2021/01/15 20:56:13 387] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/15 20:56:13 387] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/15 20:56:13 387] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/15 20:56:13 387] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/15 20:56:13 388] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/15 20:56:13 388] grm_lex    100  grm_type :  bnf  
+[2021/01/15 20:56:13 388] grm_lex    106  engine_type  :  local  
+[2021/01/15 20:56:13 388] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/15 20:56:13 388] grm_lex    106  sample_rate  :  16000  
+[2021/01/15 20:56:13 388] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/15 20:56:13 389] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/15 20:56:13 400] grm_lex    71   0  control  
+============================================================
+Time  2021/01/15 20:57:30 295 
+============================================================
+[2021/01/15 20:57:30 295] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/15 20:57:30 295] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/15 20:57:30 295] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/15 20:57:30 295] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/15 20:57:30 295] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/15 20:57:30 295] grm_lex    100  grm_type :  bnf  
+[2021/01/15 20:57:30 295] grm_lex    106  engine_type  :  local  
+[2021/01/15 20:57:30 295] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/15 20:57:30 295] grm_lex    106  sample_rate  :  16000  
+[2021/01/15 20:57:30 295] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/15 20:57:30 296] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/15 20:57:30 303] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 13:26:20 993 
+============================================================
+[2021/01/16 13:26:20 993] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 13:26:21 011] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 13:26:21 011] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 13:26:21 011] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 13:26:21 011] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 13:26:21 011] grm_lex    100  grm_type :  bnf  
+[2021/01/16 13:26:21 012] grm_lex    106  engine_type  :  local  
+[2021/01/16 13:26:21 012] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 13:26:21 012] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 13:26:21 012] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 13:26:21 013] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 13:26:21 150] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 13:27:20 676 
+============================================================
+[2021/01/16 13:27:20 676] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 13:27:20 676] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 13:27:20 676] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 13:27:20 677] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 13:27:20 677] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 13:27:20 677] grm_lex    100  grm_type :  bnf  
+[2021/01/16 13:27:20 677] grm_lex    106  engine_type  :  local  
+[2021/01/16 13:27:20 677] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 13:27:20 677] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 13:27:20 677] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 13:27:20 678] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 13:27:20 684] grm_lex    71   23300  nil  
+============================================================
+Time  2021/01/16 13:27:26 964 
+============================================================
+[2021/01/16 13:27:26 964] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 13:27:26 965] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 13:27:26 965] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 13:27:26 965] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 13:27:26 965] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 13:27:26 965] grm_lex    100  grm_type :  bnf  
+[2021/01/16 13:27:26 965] grm_lex    106  engine_type  :  local  
+[2021/01/16 13:27:26 965] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 13:27:26 965] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 13:27:26 965] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 13:27:26 966] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 13:27:26 973] grm_lex    71   23300  nil  
+============================================================
+Time  2021/01/16 13:27:45 548 
+============================================================
+[2021/01/16 13:27:45 548] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 13:27:45 548] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 13:27:45 548] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 13:27:45 548] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 13:27:45 548] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 13:27:45 548] grm_lex    100  grm_type :  bnf  
+[2021/01/16 13:27:45 548] grm_lex    106  engine_type  :  local  
+[2021/01/16 13:27:45 548] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 13:27:45 548] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 13:27:45 548] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 13:27:45 549] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 13:27:45 560] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 13:36:33 624 
+============================================================
+[2021/01/16 13:36:33 624] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 13:36:33 624] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 13:36:33 624] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 13:36:33 624] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 13:36:33 624] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 13:36:33 624] grm_lex    100  grm_type :  bnf  
+[2021/01/16 13:36:33 624] grm_lex    106  engine_type  :  local  
+[2021/01/16 13:36:33 624] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 13:36:33 624] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 13:36:33 624] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 13:36:33 625] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 13:36:33 968] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 13:37:56 439 
+============================================================
+[2021/01/16 13:37:56 439] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 13:37:56 439] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 13:37:56 439] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 13:37:56 439] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 13:37:56 439] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 13:37:56 439] grm_lex    100  grm_type :  bnf  
+[2021/01/16 13:37:56 439] grm_lex    106  engine_type  :  local  
+[2021/01/16 13:37:56 439] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 13:37:56 440] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 13:37:56 440] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 13:37:56 441] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 13:37:56 450] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 13:38:50 827 
+============================================================
+[2021/01/16 13:38:50 827] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 13:38:50 827] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 13:38:50 827] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 13:38:50 827] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 13:38:50 827] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 13:38:50 827] grm_lex    100  grm_type :  bnf  
+[2021/01/16 13:38:50 827] grm_lex    106  engine_type  :  local  
+[2021/01/16 13:38:50 827] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 13:38:50 827] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 13:38:50 827] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 13:38:50 828] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 13:38:50 837] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 14:31:27 097 
+============================================================
+[2021/01/16 14:31:27 097] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 14:31:27 097] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:31:27 097] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 14:31:27 097] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:31:27 098] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 14:31:27 098] grm_lex    100  grm_type :  bnf  
+[2021/01/16 14:31:27 098] grm_lex    106  engine_type  :  local  
+[2021/01/16 14:31:27 098] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 14:31:27 098] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 14:31:27 098] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 14:31:27 099] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 14:31:27 108] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 14:33:18 302 
+============================================================
+[2021/01/16 14:33:18 302] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 14:33:18 302] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:33:18 302] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 14:33:18 302] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:33:18 302] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 14:33:18 302] grm_lex    100  grm_type :  bnf  
+[2021/01/16 14:33:18 302] grm_lex    106  engine_type  :  local  
+[2021/01/16 14:33:18 302] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 14:33:18 302] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 14:33:18 302] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 14:33:18 304] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 14:33:18 314] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 14:34:11 080 
+============================================================
+[2021/01/16 14:34:11 080] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 14:34:11 081] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:34:11 081] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 14:34:11 081] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:34:11 081] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 14:34:11 081] grm_lex    100  grm_type :  bnf  
+[2021/01/16 14:34:11 081] grm_lex    106  engine_type  :  local  
+[2021/01/16 14:34:11 081] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 14:34:11 081] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 14:34:11 081] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 14:34:11 082] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 14:34:11 091] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 14:34:27 644 
+============================================================
+[2021/01/16 14:34:27 644] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 14:34:27 644] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:34:27 645] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 14:34:27 645] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:34:27 645] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 14:34:27 645] grm_lex    100  grm_type :  bnf  
+[2021/01/16 14:34:27 645] grm_lex    106  engine_type  :  local  
+[2021/01/16 14:34:27 645] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 14:34:27 645] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 14:34:27 645] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 14:34:27 646] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 14:34:27 655] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 14:36:16 327 
+============================================================
+[2021/01/16 14:36:16 327] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 14:36:16 327] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:36:16 327] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 14:36:16 327] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:36:16 327] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 14:36:16 327] grm_lex    100  grm_type :  bnf  
+[2021/01/16 14:36:16 327] grm_lex    106  engine_type  :  local  
+[2021/01/16 14:36:16 327] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 14:36:16 327] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 14:36:16 328] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 14:36:16 329] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 14:36:16 338] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 14:40:12 683 
+============================================================
+[2021/01/16 14:40:12 683] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 14:40:12 683] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:40:12 683] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 14:40:12 683] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:40:12 683] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 14:40:12 683] grm_lex    100  grm_type :  bnf  
+[2021/01/16 14:40:12 683] grm_lex    106  engine_type  :  local  
+[2021/01/16 14:40:12 683] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 14:40:12 683] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 14:40:12 683] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 14:40:12 684] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 14:40:12 695] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 14:41:03 426 
+============================================================
+[2021/01/16 14:41:03 426] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 14:41:03 426] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:41:03 426] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 14:41:03 426] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:41:03 426] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 14:41:03 426] grm_lex    100  grm_type :  bnf  
+[2021/01/16 14:41:03 427] grm_lex    106  engine_type  :  local  
+[2021/01/16 14:41:03 427] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 14:41:03 427] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 14:41:03 427] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 14:41:03 428] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 14:41:03 439] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 14:42:52 765 
+============================================================
+[2021/01/16 14:42:52 765] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 14:42:52 766] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:42:52 766] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 14:42:52 766] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:42:52 766] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 14:42:52 766] grm_lex    100  grm_type :  bnf  
+[2021/01/16 14:42:52 766] grm_lex    106  engine_type  :  local  
+[2021/01/16 14:42:52 766] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 14:42:52 766] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 14:42:52 766] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 14:42:52 767] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 14:42:52 777] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 14:44:07 414 
+============================================================
+[2021/01/16 14:44:07 414] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 14:44:07 414] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:44:07 414] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 14:44:07 414] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:44:07 415] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 14:44:07 415] grm_lex    100  grm_type :  bnf  
+[2021/01/16 14:44:07 415] grm_lex    106  engine_type  :  local  
+[2021/01/16 14:44:07 415] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 14:44:07 415] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 14:44:07 415] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 14:44:07 416] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 14:44:07 428] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 14:44:59 328 
+============================================================
+[2021/01/16 14:44:59 328] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 14:44:59 328] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:44:59 328] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 14:44:59 328] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:44:59 328] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 14:44:59 328] grm_lex    100  grm_type :  bnf  
+[2021/01/16 14:44:59 328] grm_lex    106  engine_type  :  local  
+[2021/01/16 14:44:59 328] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 14:44:59 328] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 14:44:59 329] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 14:44:59 329] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 14:44:59 338] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 14:47:28 884 
+============================================================
+[2021/01/16 14:47:28 884] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 14:47:28 884] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:47:28 884] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 14:47:28 884] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:47:28 884] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 14:47:28 885] grm_lex    100  grm_type :  bnf  
+[2021/01/16 14:47:28 885] grm_lex    106  engine_type  :  local  
+[2021/01/16 14:47:28 885] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 14:47:28 885] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 14:47:28 885] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 14:47:28 885] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 14:47:28 893] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 14:53:37 342 
+============================================================
+[2021/01/16 14:53:37 342] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 14:53:37 342] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:53:37 342] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 14:53:37 343] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:53:37 343] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 14:53:37 343] grm_lex    100  grm_type :  bnf  
+[2021/01/16 14:53:37 343] grm_lex    106  engine_type  :  local  
+[2021/01/16 14:53:37 343] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 14:53:37 343] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 14:53:37 343] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 14:53:37 344] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 14:53:37 354] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 14:59:34 129 
+============================================================
+[2021/01/16 14:59:34 129] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 14:59:34 129] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:59:34 129] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 14:59:34 129] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 14:59:34 129] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 14:59:34 129] grm_lex    100  grm_type :  bnf  
+[2021/01/16 14:59:34 129] grm_lex    106  engine_type  :  local  
+[2021/01/16 14:59:34 130] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 14:59:34 130] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 14:59:34 130] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 14:59:34 131] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 14:59:34 142] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 15:05:06 352 
+============================================================
+[2021/01/16 15:05:06 352] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 15:05:06 352] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 15:05:06 352] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 15:05:06 352] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 15:05:06 352] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 15:05:06 352] grm_lex    100  grm_type :  bnf  
+[2021/01/16 15:05:06 352] grm_lex    106  engine_type  :  local  
+[2021/01/16 15:05:06 352] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 15:05:06 352] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 15:05:06 352] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 15:05:06 353] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 15:05:06 361] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 15:05:40 170 
+============================================================
+[2021/01/16 15:05:40 170] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 15:05:40 170] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 15:05:40 170] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 15:05:40 170] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 15:05:40 170] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 15:05:40 170] grm_lex    100  grm_type :  bnf  
+[2021/01/16 15:05:40 170] grm_lex    106  engine_type  :  local  
+[2021/01/16 15:05:40 170] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 15:05:40 170] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 15:05:40 170] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 15:05:40 171] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 15:05:40 181] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 15:08:40 086 
+============================================================
+[2021/01/16 15:08:40 086] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 15:08:40 086] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 15:08:40 086] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 15:08:40 086] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 15:08:40 087] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 15:08:40 087] grm_lex    100  grm_type :  bnf  
+[2021/01/16 15:08:40 087] grm_lex    106  engine_type  :  local  
+[2021/01/16 15:08:40 087] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 15:08:40 087] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 15:08:40 087] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 15:08:40 087] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 15:08:40 095] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 15:12:35 422 
+============================================================
+[2021/01/16 15:12:35 422] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 15:12:35 422] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 15:12:35 422] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 15:12:35 422] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 15:12:35 423] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 15:12:35 423] grm_lex    100  grm_type :  bnf  
+[2021/01/16 15:12:35 423] grm_lex    106  engine_type  :  local  
+[2021/01/16 15:12:35 423] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 15:12:35 423] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 15:12:35 423] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 15:12:35 424] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 15:12:35 433] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 15:14:22 167 
+============================================================
+[2021/01/16 15:14:22 167] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 15:14:22 167] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 15:14:22 167] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 15:14:22 167] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 15:14:22 167] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 15:14:22 167] grm_lex    100  grm_type :  bnf  
+[2021/01/16 15:14:22 167] grm_lex    106  engine_type  :  local  
+[2021/01/16 15:14:22 167] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 15:14:22 167] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 15:14:22 167] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 15:14:22 168] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 15:14:22 179] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 15:15:01 071 
+============================================================
+[2021/01/16 15:15:01 071] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 15:15:01 071] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 15:15:01 071] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 15:15:01 071] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 15:15:01 072] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 15:15:01 072] grm_lex    100  grm_type :  bnf  
+[2021/01/16 15:15:01 072] grm_lex    106  engine_type  :  local  
+[2021/01/16 15:15:01 072] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 15:15:01 072] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 15:15:01 072] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 15:15:01 073] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 15:15:01 083] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 15:32:09 662 
+============================================================
+[2021/01/16 15:32:09 662] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 15:32:09 662] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 15:32:09 662] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 15:32:09 662] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 15:32:09 662] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 15:32:09 662] grm_lex    100  grm_type :  bnf  
+[2021/01/16 15:32:09 662] grm_lex    106  engine_type  :  local  
+[2021/01/16 15:32:09 662] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 15:32:09 662] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 15:32:09 662] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 15:32:09 663] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 15:32:09 670] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 15:32:55 515 
+============================================================
+[2021/01/16 15:32:55 515] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 15:32:55 515] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 15:32:55 515] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 15:32:55 515] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 15:32:55 515] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 15:32:55 515] grm_lex    100  grm_type :  bnf  
+[2021/01/16 15:32:55 515] grm_lex    106  engine_type  :  local  
+[2021/01/16 15:32:55 515] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 15:32:55 515] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 15:32:55 515] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 15:32:55 517] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 15:32:55 525] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 15:51:43 984 
+============================================================
+[2021/01/16 15:51:43 984] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 15:51:43 984] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 15:51:43 984] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 15:51:43 985] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 15:51:43 985] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 15:51:43 985] grm_lex    100  grm_type :  bnf  
+[2021/01/16 15:51:43 985] grm_lex    106  engine_type  :  local  
+[2021/01/16 15:51:43 985] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 15:51:43 985] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 15:51:43 985] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 15:51:43 986] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 15:51:43 995] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 15:53:50 215 
+============================================================
+[2021/01/16 15:53:50 215] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 15:53:50 215] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 15:53:50 215] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 15:53:50 215] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 15:53:50 215] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 15:53:50 215] grm_lex    100  grm_type :  bnf  
+[2021/01/16 15:53:50 215] grm_lex    106  engine_type  :  local  
+[2021/01/16 15:53:50 215] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 15:53:50 215] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 15:53:50 215] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 15:53:50 216] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 15:53:50 223] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 16:14:35 872 
+============================================================
+[2021/01/16 16:14:35 872] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 16:14:35 872] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 16:14:35 872] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 16:14:35 872] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 16:14:35 872] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 16:14:35 872] grm_lex    100  grm_type :  bnf  
+[2021/01/16 16:14:35 872] grm_lex    106  engine_type  :  local  
+[2021/01/16 16:14:35 872] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 16:14:35 872] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 16:14:35 872] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 16:14:35 873] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 16:14:35 885] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 16:16:43 564 
+============================================================
+[2021/01/16 16:16:43 564] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 16:16:43 564] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 16:16:43 564] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 16:16:43 565] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 16:16:43 565] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 16:16:43 565] grm_lex    100  grm_type :  bnf  
+[2021/01/16 16:16:43 565] grm_lex    106  engine_type  :  local  
+[2021/01/16 16:16:43 565] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 16:16:43 565] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 16:16:43 565] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 16:16:43 565] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 16:16:43 574] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 16:19:02 976 
+============================================================
+[2021/01/16 16:19:02 976] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 16:19:02 976] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 16:19:02 976] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 16:19:02 977] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 16:19:02 977] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 16:19:02 977] grm_lex    100  grm_type :  bnf  
+[2021/01/16 16:19:02 977] grm_lex    106  engine_type  :  local  
+[2021/01/16 16:19:02 977] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 16:19:02 977] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 16:19:02 977] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 16:19:02 978] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 16:19:02 988] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 16:20:27 602 
+============================================================
+[2021/01/16 16:20:27 602] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 16:20:27 602] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 16:20:27 602] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 16:20:27 602] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 16:20:27 602] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 16:20:27 602] grm_lex    100  grm_type :  bnf  
+[2021/01/16 16:20:27 602] grm_lex    106  engine_type  :  local  
+[2021/01/16 16:20:27 602] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 16:20:27 602] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 16:20:27 602] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 16:20:27 603] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 16:20:27 612] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 16:23:09 596 
+============================================================
+[2021/01/16 16:23:09 596] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 16:23:09 597] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 16:23:09 597] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 16:23:09 597] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 16:23:09 597] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 16:23:09 597] grm_lex    100  grm_type :  bnf  
+[2021/01/16 16:23:09 597] grm_lex    106  engine_type  :  local  
+[2021/01/16 16:23:09 597] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 16:23:09 597] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 16:23:09 597] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 16:23:09 598] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 16:23:09 607] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 16:23:24 802 
+============================================================
+[2021/01/16 16:23:24 802] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 16:23:24 802] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 16:23:24 802] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 16:23:24 802] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 16:23:24 802] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 16:23:24 802] grm_lex    100  grm_type :  bnf  
+[2021/01/16 16:23:24 802] grm_lex    106  engine_type  :  local  
+[2021/01/16 16:23:24 802] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 16:23:24 802] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 16:23:24 802] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 16:23:24 803] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 16:23:24 812] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 16:24:26 217 
+============================================================
+[2021/01/16 16:24:26 217] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 16:24:26 217] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 16:24:26 217] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 16:24:26 217] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 16:24:26 217] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 16:24:26 217] grm_lex    100  grm_type :  bnf  
+[2021/01/16 16:24:26 217] grm_lex    106  engine_type  :  local  
+[2021/01/16 16:24:26 217] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 16:24:26 217] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 16:24:26 217] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 16:24:26 218] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 16:24:26 229] grm_lex    71   0  control  
+============================================================
+Time  2021/01/16 16:32:18 906 
+============================================================
+[2021/01/16 16:32:18 906] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/16 16:32:18 906] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 16:32:18 907] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/16 16:32:18 907] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/16 16:32:18 908] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/16 16:32:18 908] grm_lex    100  grm_type :  bnf  
+[2021/01/16 16:32:18 908] grm_lex    106  engine_type  :  local  
+[2021/01/16 16:32:18 908] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/16 16:32:18 908] grm_lex    106  sample_rate  :  16000  
+[2021/01/16 16:32:18 908] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/16 16:32:18 909] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/16 16:32:18 916] grm_lex    71   0  control  
+============================================================
+Time  2021/01/18 10:16:36 618 
+============================================================
+[2021/01/18 10:16:36 618] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/18 10:16:36 725] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/18 10:16:36 725] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/18 10:16:36 725] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/18 10:16:36 725] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/18 10:16:36 725] grm_lex    100  grm_type :  bnf  
+[2021/01/18 10:16:36 725] grm_lex    106  engine_type  :  local  
+[2021/01/18 10:16:36 725] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/18 10:16:36 725] grm_lex    106  sample_rate  :  16000  
+[2021/01/18 10:16:36 725] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/18 10:16:36 726] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/18 10:16:36 792] grm_lex    71   0  control  
+============================================================
+Time  2021/01/18 10:31:26 331 
+============================================================
+[2021/01/18 10:31:26 331] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/18 10:31:26 331] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/18 10:31:26 331] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/18 10:31:26 331] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/18 10:31:26 331] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/18 10:31:26 332] grm_lex    100  grm_type :  bnf  
+[2021/01/18 10:31:26 332] grm_lex    106  engine_type  :  local  
+[2021/01/18 10:31:26 332] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/18 10:31:26 332] grm_lex    106  sample_rate  :  16000  
+[2021/01/18 10:31:26 332] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/18 10:31:26 332] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/18 10:31:26 340] grm_lex    71   0  control  
+============================================================
+Time  2021/01/18 10:36:34 025 
+============================================================
+[2021/01/18 10:36:34 025] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/18 10:36:34 025] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/18 10:36:34 025] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/18 10:36:34 025] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/18 10:36:34 025] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/18 10:36:34 025] grm_lex    100  grm_type :  bnf  
+[2021/01/18 10:36:34 025] grm_lex    106  engine_type  :  local  
+[2021/01/18 10:36:34 025] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/18 10:36:34 025] grm_lex    106  sample_rate  :  16000  
+[2021/01/18 10:36:34 025] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/18 10:36:34 026] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/18 10:36:34 035] grm_lex    71   0  control  
+============================================================
+Time  2021/01/18 10:40:53 010 
+============================================================
+[2021/01/18 10:40:53 010] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/18 10:40:53 010] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/18 10:40:53 011] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/18 10:40:53 011] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/18 10:40:53 011] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/18 10:40:53 011] grm_lex    100  grm_type :  bnf  
+[2021/01/18 10:40:53 011] grm_lex    106  engine_type  :  local  
+[2021/01/18 10:40:53 011] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/18 10:40:53 011] grm_lex    106  sample_rate  :  16000  
+[2021/01/18 10:40:53 011] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/18 10:40:53 012] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/18 10:40:53 019] grm_lex    71   0  control  
+============================================================
+Time  2021/01/18 10:45:27 038 
+============================================================
+[2021/01/18 10:45:27 038] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/18 10:45:27 038] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/18 10:45:27 038] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/18 10:45:27 038] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/18 10:45:27 038] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/18 10:45:27 039] grm_lex    100  grm_type :  bnf  
+[2021/01/18 10:45:27 039] grm_lex    106  engine_type  :  local  
+[2021/01/18 10:45:27 039] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/18 10:45:27 039] grm_lex    106  sample_rate  :  16000  
+[2021/01/18 10:45:27 039] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/18 10:45:27 039] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/18 10:45:27 047] grm_lex    71   0  control  
+============================================================
+Time  2021/01/18 10:56:47 017 
+============================================================
+[2021/01/18 10:56:47 018] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/18 10:56:47 018] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/18 10:56:47 018] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/18 10:56:47 018] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/18 10:56:47 018] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/18 10:56:47 018] grm_lex    100  grm_type :  bnf  
+[2021/01/18 10:56:47 018] grm_lex    106  engine_type  :  local  
+[2021/01/18 10:56:47 018] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/18 10:56:47 018] grm_lex    106  sample_rate  :  16000  
+[2021/01/18 10:56:47 018] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/18 10:56:47 019] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/18 10:56:47 027] grm_lex    71   0  control  
+============================================================
+Time  2021/01/18 10:57:35 071 
+============================================================
+[2021/01/18 10:57:35 071] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/18 10:57:35 071] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/18 10:57:35 071] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/18 10:57:35 071] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/18 10:57:35 071] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/18 10:57:35 071] grm_lex    100  grm_type :  bnf  
+[2021/01/18 10:57:35 071] grm_lex    106  engine_type  :  local  
+[2021/01/18 10:57:35 071] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/18 10:57:35 071] grm_lex    106  sample_rate  :  16000  
+[2021/01/18 10:57:35 071] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/18 10:57:35 072] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/18 10:57:35 086] grm_lex    71   0  control  
+============================================================
+Time  2021/01/18 10:57:47 477 
+============================================================
+[2021/01/18 10:57:47 477] grm_lex    264  SYS_MSG_LOAD  
+[2021/01/18 10:57:47 477] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/18 10:57:47 477] grm_lex    267  SYS_MSG_UNLOAD  
+[2021/01/18 10:57:47 477] grm_lex    281  SYS_MSG_REGCB  
+[2021/01/18 10:57:47 477] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2021/01/18 10:57:47 477] grm_lex    100  grm_type :  bnf  
+[2021/01/18 10:57:47 477] grm_lex    106  engine_type  :  local  
+[2021/01/18 10:57:47 478] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2021/01/18 10:57:47 478] grm_lex    106  sample_rate  :  16000  
+[2021/01/18 10:57:47 478] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2021/01/18 10:57:47 478] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2021/01/18 10:57:47 486] grm_lex    71   0  control  

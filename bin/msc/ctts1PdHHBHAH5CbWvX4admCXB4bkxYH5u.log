@@ -1,0 +1,41 @@
+============================================================
+Time  2021/01/18 10:30:46 791 
+============================================================
+[2021/01/18 10:30:46 791] tts        811  SYS_MSG_REGCB param0 =  msp_status_cb  param1 =  func(b0006fa0) 
+[2021/01/18 10:30:46 792] config     43   use general cloud  
+[2021/01/18 10:30:46 794] tts_cloud  1438 SYS_MSG_REGCB_CLOUD param0 =   msp_status_cb  param1 =  func(b0006fa0) 
+[2021/01/18 10:30:46 794] tts        782  TTS_MSG_SSB  
+[2021/01/18 10:30:46 794] tts        434  params =  engine_type = local,voice_name=xiaofeng, text_encoding = UTF8, tts_res_path = fo|res/tts/xiaofeng.jet;fo|res/tts/common.jet, sample_rate = 16000, speed = 50, volume = 50, pitch = 70, rdn = 2  
+[2021/01/18 10:30:46 794] tts        273  auf=audio/L16;rate=16000  
+[2021/01/18 10:30:46 794] tts        273  auf=audio/L16;rate=16000  
+[2021/01/18 10:30:46 794] tts        471  ssb|use local  
+[2021/01/18 10:30:46 794] tts        385  local_session_begin  
+[2021/01/18 10:30:46 795] tts        789  TTS_MSG_SYN  0  
+[2021/01/18 10:30:46 795] tts        514  synth|use local  
+[2021/01/18 10:30:46 796] tts        792  TTS_MSG_GETAUDIO  0  
+[2021/01/18 10:30:46 796] tts        557  get audio|use local  
+[2021/01/18 10:30:46 796] tts        599  0  nil  1  
+[2021/01/18 10:30:46 797] tts        792  TTS_MSG_GETAUDIO  0  
+[2021/01/18 10:30:46 797] tts        557  get audio|use local  
+[2021/01/18 10:30:46 798] tts        599  0  nil  1  
+[2021/01/18 10:30:46 799] tts        792  TTS_MSG_GETAUDIO  0  
+[2021/01/18 10:30:46 799] tts        557  get audio|use local  
+[2021/01/18 10:30:46 799] tts        599  0  nil  1  
+[2021/01/18 10:30:46 800] tts        792  TTS_MSG_GETAUDIO  0  
+[2021/01/18 10:30:46 800] tts        557  get audio|use local  
+[2021/01/18 10:30:46 800] tts        599  0  nil  1  
+[2021/01/18 10:30:46 801] tts        792  TTS_MSG_GETAUDIO  0  
+[2021/01/18 10:30:46 801] tts        557  get audio|use local  
+[2021/01/18 10:30:46 801] tts        599  0  nil  1  
+[2021/01/18 10:30:46 802] tts        301  TTS_LOCAL_CB_BEGIN  
+[2021/01/18 10:30:46 802] tts        792  TTS_MSG_GETAUDIO  0  
+[2021/01/18 10:30:46 803] tts        557  get audio|use local  
+[2021/01/18 10:30:46 803] tts        599  0  nil  1  
+[2021/01/18 10:30:46 803] tts        303  0  0  
+[2021/01/18 10:30:46 803] tts        314  TTS_LOCAL_CB_END,  2  
+[2021/01/18 10:30:46 803] tts        792  TTS_MSG_GETAUDIO  0  
+[2021/01/18 10:30:46 803] tts        557  get audio|use local  
+[2021/01/18 10:30:46 803] tts        599  0  nil  2  
+[2021/01/18 10:30:46 804] tts        795  TTS_MSG_SSE  
+[2021/01/18 10:30:46 804] tts        693  sse|use local  
+[2021/01/18 10:30:46 805] tts        711  tts exit  

@@ -1,0 +1,9 @@
+#BNF+IAT 1.0 UTF-8;
+!grammar control;
+!slot <devices>;
+!slot <operate>;
+
+!start <cmdstart>;
+<cmdstart>:<operate><devices>;
+<operate>:打开!id(1)|关闭!id(2)|开!id(2)|关!id(2)|退出!id(2);
+<devices>:灯!id(3)|风扇!id(4)|门!id(5)|遮阳板!id(5)|程序!id(5)|播放器!id(5);
